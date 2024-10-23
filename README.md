@@ -130,8 +130,8 @@ python phc/run_hydra.py learning=im_mcp exp_name=phc_kp_mcp_iccv env=env_im_getu
 ```
 ## Demo
 ### Walking
-![A person is walking slowly](https://github.com/ZDDWLIG/DRL-pytorch/blob/master/LunarLander-v2.gif)
+![A person is walking slowly](https://github.com/ZDDWLIG/PHC-text2motion/blob/master/demo/walking_slowly.gif)
 ### Boxing
-![A person is boxing](https://github.com/ZDDWLIG/DRL-pytorch/blob/master/Pendulum-v1.gif)
+![A person is boxing](https://github.com/ZDDWLIG/PHC-text2motion/blob/master/demo/boxing.gif)
 ### Skipping rope
-![A person is skipping rope](https://github.com/ZDDWLIG/DRL-pytorch/blob/master/Pendulum-v1.gif)
+![A person is skipping rope](https://github.com/ZDDWLIG/PHC-text2motion/blob/master/demo/skipping_rope.gif)
